@@ -2,7 +2,7 @@
 
 ***`Server Performance Stats`*** ✅
 
-*** Log Archive Tool *** ✅
+***`Log Archive Tool`***  ✅
 
 Nginx Log Analyser
 
@@ -18,7 +18,7 @@ Simple Monitoring
 
 Dummy Systemd Service
 
-*** Basic Dockerfile ***✅
+***`Basic Dockerfile`***✅
 
 EC2 Instance
 
