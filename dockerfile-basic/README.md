@@ -19,4 +19,4 @@ docker run hello-captain
 ```
 Hello, Captain!
 ```
-[Project URL This is a local Docker project from the roadmap.sh, You can find the project details](https://roadmap.sh/projects/basic-dockerfile)
+Project URL This is a local Docker project from the roadmap.sh, You can find the project details[here](https://roadmap.sh/projects/basic-dockerfile)
