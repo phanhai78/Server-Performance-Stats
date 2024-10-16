@@ -2,7 +2,7 @@
 
 ***`Server Performance Stats`*** ✅
 
-Log Archive Tool
+*** Log Archive Tool *** ✅
 
 Nginx Log Analyser
 
