@@ -18,7 +18,7 @@ Simple Monitoring
 
 Dummy Systemd Service
 
-Basic Dockerfile
+*** Basic Dockerfile ***✅
 
 EC2 Instance
 
