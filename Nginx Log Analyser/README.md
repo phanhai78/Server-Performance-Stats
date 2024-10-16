@@ -1,6 +1,6 @@
 ### Nginx Log Analyser
 ---
-This repository contains an implementation of a script for creating an archive with log files.The idea for the project was taken from[here](https://roadmap.sh/projects/log-archive-tool).
+This repository contains an implementation of a script for creating an archive with log files.The idea for the project was taken from[here](https://roadmap.sh/projects/nginx-log-analyser).
 
 Install nginx
 ```
