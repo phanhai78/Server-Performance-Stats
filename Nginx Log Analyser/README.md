@@ -1,24 +1,19 @@
-### Log Archive Tool
+### Nginx Log Analyser
 ---
 This repository contains an implementation of a script for creating an archive with log files.The idea for the project was taken from[here](https://roadmap.sh/projects/log-archive-tool).
----
 
-
-Install curl
+Install nginx
 ```
 sudo apt update
-sudo apt install curl
+sudo apt install nginx
 ```
 1 Clone repository 
 ```
 git clone https://github.com/phanhai78/Server-Performance-Stats.git
-cd Logarchive
+cd Nginx Log Analyser
 ```
-2 Run command
+2 run command
 ```
-chmod +x log-archive.sh
-./log-archive.sh /var/log
-
+chmod +x analyze.sh
+sh analyze.sh
 ```
-
-Project URL This is a local log-archive-tool project from the roadmap.sh, You can find the project details[here](https://roadmap.sh/projects/log-archive-tool)
