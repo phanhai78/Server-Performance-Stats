@@ -4,7 +4,7 @@
 
 ***`Log Archive Tool`***  ✅
 
-[`Nginx Log Analyser`]  (https://roadmap.sh/projects/nginx-log-analyser)
+[`Nginx Log Analyser`](https://roadmap.sh/projects/nginx-log-analyser)
 
 GitHub Pages Deployment
 
